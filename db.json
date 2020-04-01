@@ -1,1 +1,290 @@
 
+{
+   "sessions": [
+      {
+         "type": "current",
+         "generated": "2020-04-01T14:28:23.178Z",
+         "windows": [
+            {
+               "alwaysOnTop": false,
+               "focused": true,
+               "height": 696,
+               "id": 20,
+               "incognito": false,
+               "left": -8,
+               "state": "maximized",
+               "tabs": [
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.google.com/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 34,
+                     "incognito": false,
+                     "index": 0,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "online code editor web apps - Google Search",
+                     "url": "https://www.google.com/search?ei=QoWEXuWhH6rWz7sPxr2sgAs&q=online+code+editor+web+apps&oq=online+code+editor+web+apps&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgAEEc6BAgAEEM6BQgAEIMBOgIIADoFCAAQkQI6BAgAEAo6BggAEBYQHjoFCAAQzQJQgGNYhYkBYK2LAWgAcAN4AIABkwGIAacRkgEEOC4xMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjlyojTmcfoAhUq63MBHcYeC7AQ4dUDCAs&uact=5",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://bit.dev/favicon-32x32.png",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 39,
+                     "incognito": false,
+                     "index": 1,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Discover Components · Bit",
+                     "url": "https://bit.dev/components?q=filter",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://getbootstrap.com/docs/4.4/assets/img/favicons/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 46,
+                     "incognito": false,
+                     "index": 2,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Collapse · Bootstrap",
+                     "url": "https://getbootstrap.com/docs/4.4/components/collapse/",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://codesandbox.io/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 38,
+                     "incognito": false,
+                     "index": 3,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "pedantic-darwin-9jvtu - CodeSandbox",
+                     "url": "https://codesandbox.io/s/pedantic-darwin-9jvtu",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://miro.com/static/favicons/favicon.ico?cbh=29b45061748a5faabb42beed5d529ef9",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 50,
+                     "incognito": false,
+                     "index": 4,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "My First Board, Online Whiteboard for Visual Collaboration",
+                     "url": "https://miro.com/app/board/o9J_kuFXOUU=/",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://material.io/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 62,
+                     "incognito": false,
+                     "index": 5,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Icons - Material Design",
+                     "url": "https://material.io/resources/icons/?icon=search&style=baseline",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://material.io/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 75,
+                     "incognito": false,
+                     "index": 6,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Components - Material Design",
+                     "url": "https://material.io/components/",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://material.io/favicon.ico",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 76,
+                     "incognito": false,
+                     "index": 7,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Develop for the Web - Material Design",
+                     "url": "https://material.io/develop/web/",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 77,
+                     "incognito": false,
+                     "index": 8,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "material-components/material-components-web: Modular and customizable Material Design UI components for the web",
+                     "url": "https://github.com/material-components/material-components-web/",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://material-components.github.io/material-components-web-catalog/static/media/mdc_web_48dp.png",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 71,
+                     "incognito": false,
+                     "index": 9,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Material Components Web | Catalog",
+                     "url": "https://material-components.github.io/material-components-web-catalog/#/component/card?type=basicHeader",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/img/favicon.ico?v=29b26120d2c5",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 80,
+                     "incognito": false,
+                     "index": 10,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Is there a way to copy URLs from all open tabs in a Google Chrome (or other browser) window into an email? - Super User",
+                     "url": "https://superuser.com/questions/117754/is-there-a-way-to-copy-urls-from-all-open-tabs-in-a-google-chrome-or-other-brow",
+                     "width": 1280,
+                     "windowId": 20
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+                     "height": 614,
+                     "highlighted": false,
+                     "id": 83,
+                     "incognito": false,
+                     "index": 11,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "openerTabId": 80,
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Session Buddy - Chrome Web Store",
+                     "url": "https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko/related",
+                     "width": 1280,
+                     "windowId": 20
+                  }
+               ],
+               "top": -8,
+               "type": "normal",
+               "width": 1296
+            }
+         ]
+      }
+   ]
+}
